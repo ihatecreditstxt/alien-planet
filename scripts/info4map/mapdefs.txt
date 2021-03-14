@@ -1,0 +1,4 @@
+map MAP01.wad PrototypeLevel
+{
+	Next = EndTitle
+}

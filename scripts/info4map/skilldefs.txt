@@ -1,0 +1,35 @@
+skill baby
+{
+	AmmoFactor = 4
+	Key = 1
+	DamageFactor = 0.75
+	SpawnFilter = 2
+	EasyKey
+}
+
+skill easy
+{
+	SpawnFilter = 2
+	Key = 2
+}
+
+skill medium
+{
+	SpawnFilter = 3
+	Key = 3
+}
+
+skill hard
+{
+	SpawnFilter = 4
+	DefaultSkill
+	Key = 4
+}
+
+skill quaddamage
+{
+	SlowMonsters
+	DamageFactor = 4
+	SpawnFilter = 5
+	MustConfirm = "You sure about this? This is a wacky skill."
+}
