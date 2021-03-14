@@ -1,0 +1,16 @@
+gameinfo 
+{
+	Border = DoomBorder // INDEX_PLACEHOLDER
+	DrawReadThis = 1
+	WeaponSlot = 1, "Derringer"
+	QuitMessages = "Seriously? It was starting to get fun...", "Booooo!", "I'm disappointed in you.", "When you come back, I'm forcing you to play quad damage mode."
+	PlayerClasses = "amongsus" // INDEX_PLACEHOLDER 
+	// CursorPic = [WIP]
+	menufontcolor_title = "RED"
+	menufontcolor_label = "UNTRANSLATED"
+	menufontcolor_value = "GRAY"
+	menufontcolor_action = "GRAY"
+	menufontcolor_header = "GOLD"
+	menufontcolor_highlight = "YELLOW"
+	menufontcolor_selection = "BRICK"
+}
