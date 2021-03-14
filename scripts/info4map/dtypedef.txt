@@ -1,0 +1,46 @@
+/* sample dmgtype
+DamageType 
+{
+	Obituary = 
+}
+*/
+
+DamageType Bullet
+{
+	Obituary = "%o was shot down."
+}
+
+DamageType Corrosive
+{
+	Obituary = "%o was turned into goop."
+}
+
+DamageType Smack
+{
+	Obituary = "%o got hit really hard."
+}
+
+DamageType Chomp
+{
+	Obituary = "%o was chewed up."
+}
+
+DamageType Dunno
+{
+	Obituary = "%o died a generic death."
+}
+
+DamageType Squish
+{
+	Obituary = "%o was squashed."
+}
+
+DamageType Explosive
+{
+	Obituary = "%o was blown apart."
+}
+
+DamageType Bleeding
+{
+	Obituary = "%o bled out."
+}
